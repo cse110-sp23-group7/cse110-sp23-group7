@@ -1,4 +1,4 @@
-# Kickoff Meeting
+# Kickoff Meeting Minutes
 ## Team #7
 ## Team name: 404
 ### Date: 4/18/23, Time: 3-5pm, Location: Catalyst, Sixth College
@@ -22,11 +22,11 @@ Zoom attendees:
 
 ## Agenda:
 - [x] Branding
-- [] Group Contract
-- [] Video
-- [] Team Page
-- [] Scheduling Team Bonding and in-general
-- [] Discuss 8-Ball Project
+- [x] Group Contract
+- [x] Video
+- [ ] Team Page
+- [x] Scheduling Team Bonding and in-general
+- [ ] Discuss 8-Ball Project
 
 ## Branding
 
@@ -48,4 +48,13 @@ Forest Green, lavendar, cyan
 
 After searching google for team poster inspiration, we decided on this image that Ankit found below:
 ![image](404teamphoto.png)
+
+## Team Video
+- 2.5 minute max
+- We should have a 404 error at the end
+- All clips should be horizontal/landscape
+- We will have a shared folder in a driver where everyone can drop their
+- Little background noise, talk clearly
+- How I Met Your Mother audio clip (option)
+- Throwing transition, grab an item that you identify with and throw/catch it from the top/bottom/left/right
 

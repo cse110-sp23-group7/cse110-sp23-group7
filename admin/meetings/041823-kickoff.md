@@ -47,7 +47,7 @@ Finalized Team Colors we all agreed on:
 Forest Green, lavendar, cyan
 
 After searching google for team poster inspiration, we decided on this image that Ankit found below:
-![image](404teamphoto.png)
+![image](/admin/branding/404teamphoto.png)
 
 ## Team Video
 - 2.5 minute max

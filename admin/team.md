@@ -1,5 +1,6 @@
 # Team 404
 ## Team Photo:
+
 ![image](/admin/branding/404teamphoto.png)
 ## Team Values:
 - Respect one another

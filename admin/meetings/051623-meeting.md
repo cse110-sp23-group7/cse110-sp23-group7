@@ -37,4 +37,4 @@ Attendees:
 - linting
 
 ## Midterm Question
-- example HTML code
+- example HTML code and questions in admin/misc
